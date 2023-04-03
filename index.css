@@ -1,0 +1,11 @@
+.div-ghost {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  margin: 5px 0px 0px 5px;
+  border-radius: 10px;
+}
+
+.parent-div {
+  display: flex;
+}
